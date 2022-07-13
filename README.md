@@ -29,7 +29,6 @@ ___STUDENT DETAILS___
 	Name: raj
 	Phone Number: 3456
 	Address: india
-	Class: <__main__.StudentClass object at 0x7fed6e83e880>
 	School Name : XYZ
 
 Do you want to Continue[y/n]: y
@@ -71,7 +70,6 @@ ___STUDENT DETAILS___
 	Name: prudhvi
 	Phone Number: 3456
 	Address: india
-	Class: <__main__.StudentClass object at 0x7fa26f7fd880>
 	School Name : XYZ
 
 
