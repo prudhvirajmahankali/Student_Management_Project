@@ -29,6 +29,7 @@ ___STUDENT DETAILS___
 	Name: raj
 	Phone Number: 3456
 	Address: india
+	class: 10
 	School Name : XYZ
 
 Do you want to Continue[y/n]: y
@@ -70,6 +71,7 @@ ___STUDENT DETAILS___
 	Name: prudhvi
 	Phone Number: 3456
 	Address: india
+	class: 10
 	School Name : XYZ
 
 
