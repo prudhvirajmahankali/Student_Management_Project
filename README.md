@@ -1,4 +1,4 @@
-# Student-Management-Project
+# Student_Management_Project
 Using Python I Have Created Student Management Project
 
 Output:
